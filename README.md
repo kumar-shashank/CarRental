@@ -9,13 +9,13 @@ The system also has testimonials and contact us page so the customer can give th
 
 The customer can register on the website and select which vehicle they’d like to rent.
 
-Installation: Extract the zip file under the htdocs folder. Open phpMyAdmin and create a database called “carrental”. Import the file named “carrental.sql” located under “db file” folder. Open a browser and type http://localhost/car-rental/ The above is just an example. Change car-rental if you save it on different name after you extract the files. Login information: Admin
+Installation: Extract the zip file under the htdocs folder. Open phpMyAdmin and create a database called “spirit_venture”. Import the file named “spirit_venture.sql” located under “database” folder. Open a browser and type http://localhost/spirit_venture/ The above is just an example. Change spirit_venture if you save it on different name after you extract the files. Login information: Admin
 
-URL: http://localhost/car-rental/admin/ Username: admin Password: admin
+URL: http://localhost/spirit_venture/admin/ Username: admin Password: admin
 
 Customer
 
-Register on the site using the URL below: http://localhost/car-rental/#signupform
+Register on the site using the URL below: http://localhost/spirit_venture/#signupform
 
 
 http://spiritventure.epizy.com/   for reference
