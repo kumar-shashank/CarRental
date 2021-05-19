@@ -16,3 +16,6 @@ URL: http://localhost/car-rental/admin/ Username: admin Password: admin
 Customer
 
 Register on the site using the URL below: http://localhost/car-rental/#signupform
+
+
+http://spiritventure.epizy.com/   for reference
