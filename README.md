@@ -18,4 +18,4 @@ Customer
 Register on the site using the URL below: http://localhost/spirit_venture/#signupform
 
 
-http://spiritventure.epizy.com/   for reference
+http://spirit-venture.epizy.com/   for reference
